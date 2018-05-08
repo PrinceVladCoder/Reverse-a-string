@@ -1,0 +1,11 @@
+C:\Users\Huis\Desktop\Programming\ReverseAString\ReverseAString\bin\Debug\netcoreapp2.0\ReverseAString.deps.json
+C:\Users\Huis\Desktop\Programming\ReverseAString\ReverseAString\bin\Debug\netcoreapp2.0\ReverseAString.runtimeconfig.json
+C:\Users\Huis\Desktop\Programming\ReverseAString\ReverseAString\bin\Debug\netcoreapp2.0\ReverseAString.runtimeconfig.dev.json
+C:\Users\Huis\Desktop\Programming\ReverseAString\ReverseAString\bin\Debug\netcoreapp2.0\ReverseAString.dll
+C:\Users\Huis\Desktop\Programming\ReverseAString\ReverseAString\bin\Debug\netcoreapp2.0\ReverseAString.pdb
+C:\Users\Huis\Desktop\Programming\ReverseAString\ReverseAString\obj\Debug\netcoreapp2.0\ReverseAString.csprojResolveAssemblyReference.cache
+C:\Users\Huis\Desktop\Programming\ReverseAString\ReverseAString\obj\Debug\netcoreapp2.0\ReverseAString.csproj.CoreCompileInputs.cache
+C:\Users\Huis\Desktop\Programming\ReverseAString\ReverseAString\obj\Debug\netcoreapp2.0\ReverseAString.AssemblyInfoInputs.cache
+C:\Users\Huis\Desktop\Programming\ReverseAString\ReverseAString\obj\Debug\netcoreapp2.0\ReverseAString.AssemblyInfo.cs
+C:\Users\Huis\Desktop\Programming\ReverseAString\ReverseAString\obj\Debug\netcoreapp2.0\ReverseAString.dll
+C:\Users\Huis\Desktop\Programming\ReverseAString\ReverseAString\obj\Debug\netcoreapp2.0\ReverseAString.pdb
